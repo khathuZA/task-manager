@@ -41,4 +41,4 @@ A full-stack task management application built with React, Node.js, Express, and
 
 ## Author
 
-**Khathutshelo** — Final year BTech Computer Science student at TUT
+**Khathutshelo** 
